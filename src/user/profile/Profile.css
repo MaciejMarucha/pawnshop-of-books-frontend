@@ -1,0 +1,8 @@
+.user-profile {
+    margin-top: 60px;
+}
+@media (max-width: 576px) {
+    .user-profile{
+        margin-top: 100px;
+    }
+}
